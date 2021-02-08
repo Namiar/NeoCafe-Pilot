@@ -2,4 +2,4 @@
 Food Ordering System for university project
 
 This project used Eclipse.
-When download this file, put
+After download this file, put the file in the respective place.
